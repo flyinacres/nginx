@@ -1,1 +1,4 @@
 This git repo is for nginx conference work
+
+How to look at nginx logs, live
+sudo tail -f /var/log/nginx/*
